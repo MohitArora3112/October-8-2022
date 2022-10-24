@@ -10359,3 +10359,5 @@ java.net.URISyntaxException: Illegal character in path at index 14: file:/D:/Moh
 2022-10-24 14:23:38,852 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Welcome\October-8-2022\ExtentReportsDemo\src\test\resources
 2022-10-24 14:31:23,588 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-24 14:31:23,588 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Welcome\October-8-2022\ExtentReportsDemo\src\main\resources
+2022-10-24 14:31:23,589 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-24 14:31:23,590 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Welcome\October-8-2022\ExtentReportsDemo\src\test\resources
