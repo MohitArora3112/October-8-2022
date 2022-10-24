@@ -10347,3 +10347,7 @@ java.net.URISyntaxException: Illegal character in path at index 14: file:/D:/Moh
 2022-10-24 14:15:35,740 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: rahulshettyacademy:PageObjectModel:0.0.1-SNAPSHOT @ C:\Users\Welcome\October-8-2022\PageObjectModel\pom.xml.
 2022-10-24 14:15:36,032 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-24 14:15:36,034 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Welcome\October-8-2022\PageObjectModel\src\main\resources
+2022-10-24 14:15:36,034 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-24 14:15:36,035 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Welcome\October-8-2022\PageObjectModel\src\test\resources
+2022-10-24 14:21:09,573 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-24 14:21:09,574 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Welcome\October-8-2022\ExtentReportsDemo\src\main\resources
