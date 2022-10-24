@@ -1,0 +1,2 @@
+19:18:09.642 [main] ERROR alpha.Log4j2Demo - alpha: Object is not present.
+19:18:09.645 [main] FATAL alpha.Log4j2Demo - alpha: Fatal error found

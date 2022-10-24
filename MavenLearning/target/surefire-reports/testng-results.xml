@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-15T02:52:30Z" name="Suite" finished-at="2022-07-15T02:52:30Z" duration-ms="14">
+    <groups>
+    </groups>
+    <test started-at="2022-07-15T02:52:30Z" name="Test" finished-at="2022-07-15T02:52:30Z" duration-ms="14">
+      <class name="Section19.MavenLearning.AppiumTest">
+        <test-method signature="getDivison()[pri:0, instance:Section19.MavenLearning.AppiumTest@5be1d0a4]" started-at="2022-07-15T08:22:30Z" name="getDivison" finished-at="2022-07-15T08:22:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDivison -->
+        <test-method signature="getSubtraction()[pri:0, instance:Section19.MavenLearning.AppiumTest@5be1d0a4]" started-at="2022-07-15T08:22:30Z" name="getSubtraction" finished-at="2022-07-15T08:22:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSubtraction -->
+      </class> <!-- Section19.MavenLearning.AppiumTest -->
+      <class name="Section19.MavenLearning.SeleniumTest">
+        <test-method signature="BrowseName()[pri:0, instance:Section19.MavenLearning.SeleniumTest@2f67a4d3]" started-at="2022-07-15T08:22:30Z" name="BrowseName" finished-at="2022-07-15T08:22:30Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowseName -->
+        <test-method signature="apiAutomationToolName()[pri:0, instance:Section19.MavenLearning.SeleniumTest@2f67a4d3]" started-at="2022-07-15T08:22:30Z" name="apiAutomationToolName" finished-at="2022-07-15T08:22:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiAutomationToolName -->
+      </class> <!-- Section19.MavenLearning.SeleniumTest -->
+      <class name="Section19.MavenLearning.RestAPITest">
+        <test-method signature="getData()[pri:0, instance:Section19.MavenLearning.RestAPITest@415b0b49]" started-at="2022-07-15T08:22:30Z" name="getData" finished-at="2022-07-15T08:22:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getMultiply()[pri:0, instance:Section19.MavenLearning.RestAPITest@415b0b49]" started-at="2022-07-15T08:22:30Z" name="getMultiply" finished-at="2022-07-15T08:22:30Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMultiply -->
+      </class> <!-- Section19.MavenLearning.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

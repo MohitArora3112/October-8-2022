@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-16T18:06:31 IST" name="Default suite" finished-at="2022-07-16T18:07:21 IST" duration-ms="49803">
+    <groups>
+    </groups>
+    <test started-at="2022-07-16T18:06:31 IST" name="Default test" finished-at="2022-07-16T18:07:21 IST" duration-ms="49803">
+      <class name="rahulshettyacademy.ExtentReports.SeleniumTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:rahulshettyacademy.ExtentReports.SeleniumTest@7c711375]" started-at="2022-07-16T18:06:31 IST" name="beforeTest" finished-at="2022-07-16T18:06:32 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="firstSeleniumTest()[pri:0, instance:rahulshettyacademy.ExtentReports.SeleniumTest@7c711375]" started-at="2022-07-16T18:06:32 IST" name="firstSeleniumTest" finished-at="2022-07-16T18:07:05 IST" duration-ms="33654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstSeleniumTest -->
+        <test-method signature="secondSeleniumTest()[pri:0, instance:rahulshettyacademy.ExtentReports.SeleniumTest@7c711375]" started-at="2022-07-16T18:07:05 IST" name="secondSeleniumTest" finished-at="2022-07-16T18:07:21 IST" duration-ms="15796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondSeleniumTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:rahulshettyacademy.ExtentReports.SeleniumTest@7c711375]" started-at="2022-07-16T18:07:21 IST" name="afterTest" finished-at="2022-07-16T18:07:21 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- rahulshettyacademy.ExtentReports.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
